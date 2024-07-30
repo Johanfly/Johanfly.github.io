@@ -28,7 +28,7 @@ twitter_username: Normals0a
 github_username:  Johanfly
 
 # Build settings
-theme: minima
+remote_theme: jekyll/minima
 minima:
   # Minima skin selection.
   # Available skins are:
